@@ -8,3 +8,5 @@ npm-debug.log
 /.idea
 
 *.sublime-workspace
+
+api-keys\.js
