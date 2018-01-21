@@ -17,6 +17,7 @@ module.exports = {
           {
             loader: 'eslint-loader',
             options: {
+              // show errors, but still build
               emitWarning: true
             }
           }
